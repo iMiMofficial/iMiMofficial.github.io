@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md Mim Akhtar/@iMiMofficial
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning C...
+- 🌱 I’m currently learning Python...
 - 💞️ I’m looking to collaborate on Web Developement
 - 📫 You can reach me via my email : iMiMofficialX@gmail.com
 
